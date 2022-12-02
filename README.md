@@ -1,5 +1,7 @@
 # fifth-week-homework
 
+# iOS
+
 **4. hafta** ödevine ek olarak geliştirilen bu proje kapsamında, The Breaking Bad dizisine ek olarak, her bir bölüme özel olarak not ekleme, çıkarma ve güncelleme işlemleri eklenmiştir. Bu notların listeleneceği bir tab sekmesi eklenmiştir. Sağ alt köşeye bir Floating Button eklenmiştir. Bu eklenme ile, listeye ekleme yapılabilmektedir.
 
 Ayrıca listede herhangi bir bölüme tıklama gerçekleştiğinde, o bölüm hakkında yazılan notlar hakkında detay sayfası açılmaktadır.
@@ -39,16 +41,15 @@ Bir Pop Up olarak açılmaktadır. Amacı bölümü seçip, not ekleme / güncel
 
 Image olarak CoreData'ya CRUD işlemleri de eklenmiştir. Yani: Create, Read, Update, Delete
 
+# LeetCode
 
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/56068905/205395589-96561bd7-ae0d-429c-afea-6697b78b0443.png">
 
-### 2- Clean Code - 5, 6, 7, 8 chapterlar özetlenmelidir.
+LeetCode profilime gitmek için [tıklayabilirsiniz.](https://leetcode.com/omerfarukozturk026/) Hedefim şubat ayına kadar en az 50 soru çözmüş olmak.
 
-### 3- Crack the Interviews - 1, 2, 3 Çalışılacak.
- 
-### 4- Leet Code üzerinden seçilmiş 3 soru çözülecek ve soruya ait görseller repoya eklenecek. 
-Soru çözüldükten sonra submission kısmından görseli alabilirsiniz. Örn:
+# CleanCode
 
-<img width="584" alt="image" src="https://user-images.githubusercontent.com/65663370/204152185-1f073bb2-4e0d-4466-b29f-61adcbe15a8f.png">
+Kitap özetini kendi repomda düzenli olarak çıkarmaktayım. Commit tarihleri düzenli olarak orada gözükmektedir.
 
 # Ödev Hakkında Birkaç Söz
 
