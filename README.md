@@ -1,26 +1,44 @@
 # fifth-week-homework
 
-## 1- Breaking Bad api uygulamamıza persistant özelliği kazandıracağız.
+**4. hafta** ödevine ek olarak geliştirilen bu proje kapsamında, The Breaking Bad dizisine ek olarak, her bir bölüme özel olarak not ekleme, çıkarma ve güncelleme işlemleri eklenmiştir. Bu notların listeleneceği bir tab sekmesi eklenmiştir. Sağ alt köşeye bir Floating Button eklenmiştir. Bu eklenme ile, listeye ekleme yapılabilmektedir.
 
-### Uygulamamıza Yeni bir tab ekleyeceğiz: Notlar
+Ayrıca listede herhangi bir bölüme tıklama gerçekleştiğinde, o bölüm hakkında yazılan notlar hakkında detay sayfası açılmaktadır.
 
-• Ekranda bölümlerden aldığımız notların listesi olacak.
+Proje kapsamında, CoreData üzerinde temel CRUD işlemleri gerçekleşmiştir. Bu kapsamda gerçekleştirilen projenin ekran videosu şu şekildedir:
 
-• Listeden sola kaydırarak eleman silebilmeliyiz.
+https://user-images.githubusercontent.com/56068905/205379514-bf97ac4e-f5c5-4f76-9f95-a8996cab891f.mov
 
-• Floating button şeklinde ekle butonumuz olacak.
+## Listeme Sayfası
 
-• Ekle butonuna bastığımızda ekle/düzenle ekranı present edilecek. Boş bilgiler
+<img width="200" src= "https://user-images.githubusercontent.com/56068905/205374367-7429b33b-0bb6-45b7-88a8-44b942603719.png" />
 
-• Listeden item seçtiğimizde ekle/düzenle ekranı present edilecek. Seçtiğimiz item bilgileri ile.
+* Programatik olarak Floating Button
+* Table View with Custom Cell
 
-### Ekleme/Düzenleme Ekranı
+## Ekleme / Güncelleme Sayfası
 
-• Ekleme ekranında sezon, bölüm bilgisi girip notumuzu yazacağız.
+<img width="200" src= "https://user-images.githubusercontent.com/56068905/205374679-8ea9cc32-ca03-4ec0-a09a-11b3bbb66d7c.png" />
 
-• Ekleme ekranındaki kaydet butonu ile CoreData üzerinde kayıt edeceğiz.
+Eğer listeden giriş yapılırsa *Güncelleme Sayfası, eğer kaydet butonu ile oluşturulursa *Kaydet Sayfası olmaktadır.
 
-• Eğer item düzenleme ile gelindiyse ilgili not update edilmelidir.
+* Listeme Sayfası ile Delegate Pattern ile iletişim kurması
+* Animasyonlu Button Collection kullanımı
+* TextView kullanımı
+* ImageView kullanımı
+* ImagePicker kullanımı (Galeriden ya da Kameradan Fotoğraf Getirme)
+
+## Bölüm Seçme Ekranı
+
+<img width="200" src= "https://user-images.githubusercontent.com/56068905/205376526-1fa1797e-89d8-47f2-87d0-4889d075dc3c.png" />
+
+Bir Pop Up olarak açılmaktadır. Amacı bölümü seçip, not ekleme / güncelleme sayfasında kullanılmasını sağlamaktadır. Bu sebeple delegate pattern olacak şekilde kullanılmıştır.
+
+## CoreData Kullanımı
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/56068905/205377149-afe152d2-1153-4796-affe-44291c8c4ab2.png">
+
+Image olarak CoreData'ya CRUD işlemleri de eklenmiştir. Yani: Create, Read, Update, Delete
+
 
 
 ### 2- Clean Code - 5, 6, 7, 8 chapterlar özetlenmelidir.
