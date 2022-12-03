@@ -18,9 +18,21 @@
 		0428DD22292F75DA00E96EFD /* CharacterTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0428DD21292F75DA00E96EFD /* CharacterTabViewController.swift */; };
 		0428DD27292F760D00E96EFD /* CharacterCustomCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0428DD25292F760D00E96EFD /* CharacterCustomCollectionCell.swift */; };
 		0428DD28292F760D00E96EFD /* CharacterCustomCollectionCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0428DD26292F760D00E96EFD /* CharacterCustomCollectionCell.xib */; };
+		042BABA42938825C005793B3 /* EpisodeNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042BABA32938825C005793B3 /* EpisodeNoteViewController.swift */; };
+		042BABAB29388D25005793B3 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042BABAA29388D25005793B3 /* CoreDataManager.swift */; };
+		042BABB229389B62005793B3 /* NewEpisodeNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042BABB129389B62005793B3 /* NewEpisodeNoteViewController.swift */; };
+		042BABB529389FE1005793B3 /* NoteEpisodeCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042BABB329389FE1005793B3 /* NoteEpisodeCustomCell.swift */; };
+		042BABB629389FE1005793B3 /* NoteEpisodeCustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 042BABB429389FE1005793B3 /* NoteEpisodeCustomCell.xib */; };
+		04627C7B29392FAF00733F34 /* SaveDataDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04627C7A29392FAF00733F34 /* SaveDataDelegate.swift */; };
+		04627C7E2939317100733F34 /* CustomNoteTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04627C7C2939317100733F34 /* CustomNoteTableCell.swift */; };
+		04627C7F2939317100733F34 /* CustomNoteTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04627C7D2939317100733F34 /* CustomNoteTableCell.xib */; };
 		047280732930FFD8002CC301 /* IMDBPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047280722930FFD8002CC301 /* IMDBPageViewController.swift */; };
 		0472807A29311253002CC301 /* PopupCustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0472807829311253002CC301 /* PopupCustomTableViewCell.swift */; };
 		0472807B29311253002CC301 /* PopupCustomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0472807929311253002CC301 /* PopupCustomTableViewCell.xib */; };
+		04AA9DE5293A695600E1482B /* SelectEpisodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA9DE4293A695600E1482B /* SelectEpisodeView.swift */; };
+		04AA9DE7293A696000E1482B /* SelectEpisodeView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04AA9DE6293A696000E1482B /* SelectEpisodeView.xib */; };
+		04AA9DE9293A69EE00E1482B /* EpisodeViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA9DE8293A69EE00E1482B /* EpisodeViewDelegate.swift */; };
+		04DB81C929387FA00079E30B /* TheBreakingBadCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 04DB81C729387FA00079E30B /* TheBreakingBadCoreData.xcdatamodeld */; };
 		04DDCDF72932696000D84499 /* PopupDelegateProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDCDF62932696000D84499 /* PopupDelegateProtocol.swift */; };
 		04DDCDF92932698D00D84499 /* SeasonEpisodeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDCDF82932698D00D84499 /* SeasonEpisodeModel.swift */; };
 		04E63617292FC3FE0086DAFD /* SwiftAlertView in Frameworks */ = {isa = PBXBuildFile; productRef = 04E63616292FC3FE0086DAFD /* SwiftAlertView */; };
@@ -51,9 +63,21 @@
 		0428DD21292F75DA00E96EFD /* CharacterTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterTabViewController.swift; sourceTree = "<group>"; };
 		0428DD25292F760D00E96EFD /* CharacterCustomCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterCustomCollectionCell.swift; sourceTree = "<group>"; };
 		0428DD26292F760D00E96EFD /* CharacterCustomCollectionCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CharacterCustomCollectionCell.xib; sourceTree = "<group>"; };
+		042BABA32938825C005793B3 /* EpisodeNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodeNoteViewController.swift; sourceTree = "<group>"; };
+		042BABAA29388D25005793B3 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
+		042BABB129389B62005793B3 /* NewEpisodeNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewEpisodeNoteViewController.swift; sourceTree = "<group>"; };
+		042BABB329389FE1005793B3 /* NoteEpisodeCustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteEpisodeCustomCell.swift; sourceTree = "<group>"; };
+		042BABB429389FE1005793B3 /* NoteEpisodeCustomCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NoteEpisodeCustomCell.xib; sourceTree = "<group>"; };
+		04627C7A29392FAF00733F34 /* SaveDataDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveDataDelegate.swift; sourceTree = "<group>"; };
+		04627C7C2939317100733F34 /* CustomNoteTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNoteTableCell.swift; sourceTree = "<group>"; };
+		04627C7D2939317100733F34 /* CustomNoteTableCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomNoteTableCell.xib; sourceTree = "<group>"; };
 		047280722930FFD8002CC301 /* IMDBPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IMDBPageViewController.swift; sourceTree = "<group>"; };
 		0472807829311253002CC301 /* PopupCustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupCustomTableViewCell.swift; sourceTree = "<group>"; };
 		0472807929311253002CC301 /* PopupCustomTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PopupCustomTableViewCell.xib; sourceTree = "<group>"; };
+		04AA9DE4293A695600E1482B /* SelectEpisodeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectEpisodeView.swift; sourceTree = "<group>"; };
+		04AA9DE6293A696000E1482B /* SelectEpisodeView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SelectEpisodeView.xib; sourceTree = "<group>"; };
+		04AA9DE8293A69EE00E1482B /* EpisodeViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodeViewDelegate.swift; sourceTree = "<group>"; };
+		04DB81C829387FA00079E30B /* TheBreakingBadCoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TheBreakingBadCoreData.xcdatamodel; sourceTree = "<group>"; };
 		04DDCDF62932696000D84499 /* PopupDelegateProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupDelegateProtocol.swift; sourceTree = "<group>"; };
 		04DDCDF82932698D00D84499 /* SeasonEpisodeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonEpisodeModel.swift; sourceTree = "<group>"; };
 		04E6361B292FC4210086DAFD /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
@@ -118,6 +142,7 @@
 				0428DCFF292F725A00E96EFD /* Main.storyboard */,
 				0428DD02292F725B00E96EFD /* Assets.xcassets */,
 				0428DD04292F725B00E96EFD /* LaunchScreen.storyboard */,
+				04DB81C729387FA00079E30B /* TheBreakingBadCoreData.xcdatamodeld */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -136,15 +161,16 @@
 		0428DD0F292F729900E96EFD /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				04DDCDF52932694500D84499 /* Protocol */,
 				0428DD25292F760D00E96EFD /* CharacterCustomCollectionCell.swift */,
 				0428DD26292F760D00E96EFD /* CharacterCustomCollectionCell.xib */,
 				04F870A02930886F00318A4F /* EpisodesTableViewCell.swift */,
 				04F870A12930886F00318A4F /* EpisodesTableViewCell.xib */,
-				04F870A429309B5A00318A4F /* PopUp.swift */,
-				04F870A82930A3CF00318A4F /* PopUp.xib */,
 				0472807829311253002CC301 /* PopupCustomTableViewCell.swift */,
 				0472807929311253002CC301 /* PopupCustomTableViewCell.xib */,
+				042BABB329389FE1005793B3 /* NoteEpisodeCustomCell.swift */,
+				042BABB429389FE1005793B3 /* NoteEpisodeCustomCell.xib */,
+				04627C7C2939317100733F34 /* CustomNoteTableCell.swift */,
+				04627C7D2939317100733F34 /* CustomNoteTableCell.xib */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -152,6 +178,9 @@
 		0428DD11292F72A700E96EFD /* View */ = {
 			isa = PBXGroup;
 			children = (
+				04DDCDF52932694500D84499 /* Protocol */,
+				042BABAC29389028005793B3 /* Components */,
+				042BABA229388247005793B3 /* tab4 */,
 				0472807429310AC7002CC301 /* tab3 */,
 				04F8709A2930830800318A4F /* tab2 */,
 				04E6361D292FD9330086DAFD /* tab1 */,
@@ -165,8 +194,29 @@
 			children = (
 				0428DD19292F734600E96EFD /* BaseResponse.swift */,
 				0428DD1C292F736800E96EFD /* Client.swift */,
+				042BABAA29388D25005793B3 /* CoreDataManager.swift */,
 			);
 			path = Service;
+			sourceTree = "<group>";
+		};
+		042BABA229388247005793B3 /* tab4 */ = {
+			isa = PBXGroup;
+			children = (
+				042BABA32938825C005793B3 /* EpisodeNoteViewController.swift */,
+				042BABB129389B62005793B3 /* NewEpisodeNoteViewController.swift */,
+			);
+			path = tab4;
+			sourceTree = "<group>";
+		};
+		042BABAC29389028005793B3 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				04F870A429309B5A00318A4F /* PopUp.swift */,
+				04F870A82930A3CF00318A4F /* PopUp.xib */,
+				04AA9DE4293A695600E1482B /* SelectEpisodeView.swift */,
+				04AA9DE6293A696000E1482B /* SelectEpisodeView.xib */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 		0472807429310AC7002CC301 /* tab3 */ = {
@@ -180,7 +230,9 @@
 		04DDCDF52932694500D84499 /* Protocol */ = {
 			isa = PBXGroup;
 			children = (
+				04627C7A29392FAF00733F34 /* SaveDataDelegate.swift */,
 				04DDCDF62932696000D84499 /* PopupDelegateProtocol.swift */,
+				04AA9DE8293A69EE00E1482B /* EpisodeViewDelegate.swift */,
 			);
 			path = Protocol;
 			sourceTree = "<group>";
@@ -254,6 +306,7 @@
 			packageReferences = (
 				04E63615292FC3FE0086DAFD /* XCRemoteSwiftPackageReference "SwiftAlertView" */,
 				04E63618292FC4090086DAFD /* XCRemoteSwiftPackageReference "MaterialActivityIndicator" */,
+				042BABB72938AC27005793B3 /* XCRemoteSwiftPackageReference "YPImagePicker" */,
 			);
 			productRefGroup = 0428DCF7292F725A00E96EFD /* Products */;
 			projectDirPath = "";
@@ -273,9 +326,12 @@
 				04F870A92930A3CF00318A4F /* PopUp.xib in Resources */,
 				0428DD06292F725B00E96EFD /* LaunchScreen.storyboard in Resources */,
 				0428DD03292F725B00E96EFD /* Assets.xcassets in Resources */,
+				04AA9DE7293A696000E1482B /* SelectEpisodeView.xib in Resources */,
+				042BABB629389FE1005793B3 /* NoteEpisodeCustomCell.xib in Resources */,
 				0428DD28292F760D00E96EFD /* CharacterCustomCollectionCell.xib in Resources */,
 				04F870A32930886F00318A4F /* EpisodesTableViewCell.xib in Resources */,
 				0428DD01292F725A00E96EFD /* Main.storyboard in Resources */,
+				04627C7F2939317100733F34 /* CustomNoteTableCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,16 +343,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				0428DD1A292F734600E96EFD /* BaseResponse.swift in Sources */,
+				04DB81C929387FA00079E30B /* TheBreakingBadCoreData.xcdatamodeld in Sources */,
+				042BABA42938825C005793B3 /* EpisodeNoteViewController.swift in Sources */,
+				04AA9DE9293A69EE00E1482B /* EpisodeViewDelegate.swift in Sources */,
+				04627C7B29392FAF00733F34 /* SaveDataDelegate.swift in Sources */,
 				04F870A529309B5A00318A4F /* PopUp.swift in Sources */,
 				0428DD20292F747000E96EFD /* CharacterModel.swift in Sources */,
 				04DDCDF92932698D00D84499 /* SeasonEpisodeModel.swift in Sources */,
 				0428DD22292F75DA00E96EFD /* CharacterTabViewController.swift in Sources */,
 				0428DCFA292F725A00E96EFD /* AppDelegate.swift in Sources */,
+				042BABB529389FE1005793B3 /* NoteEpisodeCustomCell.swift in Sources */,
+				042BABB229389B62005793B3 /* NewEpisodeNoteViewController.swift in Sources */,
 				0472807A29311253002CC301 /* PopupCustomTableViewCell.swift in Sources */,
 				0428DD1D292F736800E96EFD /* Client.swift in Sources */,
+				042BABAB29388D25005793B3 /* CoreDataManager.swift in Sources */,
 				04F8709F2930853B00318A4F /* EpisodeModel.swift in Sources */,
+				04AA9DE5293A695600E1482B /* SelectEpisodeView.swift in Sources */,
 				04E6361F292FD9700086DAFD /* DetailCharacterViewController.swift in Sources */,
 				04F870A22930886F00318A4F /* EpisodesTableViewCell.swift in Sources */,
+				04627C7E2939317100733F34 /* CustomNoteTableCell.swift in Sources */,
 				04E63623292FF49B0086DAFD /* QuoteByAuthorViewController.swift in Sources */,
 				04E63621292FF20D0086DAFD /* QuoteByAuthorModel.swift in Sources */,
 				04E6361C292FC4210086DAFD /* BaseViewController.swift in Sources */,
@@ -454,6 +519,9 @@
 				DEVELOPMENT_TEAM = 8W2QVSMGJ3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TheBreakingBad/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app use Camera";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This app use Microphone";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app use Photo Library";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -485,6 +553,9 @@
 				DEVELOPMENT_TEAM = 8W2QVSMGJ3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TheBreakingBad/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app use Camera";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This app use Microphone";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app use Photo Library";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -530,6 +601,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		042BABB72938AC27005793B3 /* XCRemoteSwiftPackageReference "YPImagePicker" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Yummypets/YPImagePicker";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
 		04E63615292FC3FE0086DAFD /* XCRemoteSwiftPackageReference "SwiftAlertView" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/dinhquan/SwiftAlertView";
@@ -560,6 +639,19 @@
 			productName = MaterialActivityIndicator;
 		};
 /* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		04DB81C729387FA00079E30B /* TheBreakingBadCoreData.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				04DB81C829387FA00079E30B /* TheBreakingBadCoreData.xcdatamodel */,
+			);
+			currentVersion = 04DB81C829387FA00079E30B /* TheBreakingBadCoreData.xcdatamodel */;
+			path = TheBreakingBadCoreData.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 0428DCEE292F725A00E96EFD /* Project object */;
 }

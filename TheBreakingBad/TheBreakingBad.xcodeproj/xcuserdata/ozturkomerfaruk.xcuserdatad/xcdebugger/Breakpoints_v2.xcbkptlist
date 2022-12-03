@@ -7,48 +7,142 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2F9EE805-2FCD-4C67-AB85-2B8F45C7833C"
+            uuid = "AF37F754-EABD-492B-B7BF-62784B85E68C"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "TheBreakingBad/Service/Client.swift"
+            filePath = "TheBreakingBad/View/tab4/EpisodeNoteViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
-            landmarkName = "url"
-            landmarkType = "24">
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "saveCoreData(tvSeries:noteText:image:episode:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "123EC84B-0549-4015-A64B-7A70AE7DB737"
+            uuid = "99F1E771-95DC-4CDC-ADD9-E680BD5B3778"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "TheBreakingBad/Service/Client.swift"
+            filePath = "TheBreakingBad/View/tab4/EpisodeNoteViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "url"
-            landmarkType = "24">
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "updateCoreData()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "90F900D1-B883-4514-8020-BCC847AC63E1"
+            uuid = "D6B74290-D395-4EED-AA17-BCB12A6E3F99"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "TheBreakingBad/View/tab2/EpisodesViewController.swift"
+            filePath = "TheBreakingBad/View/Components/SelectEpisodeView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "77"
-            endingLineNumber = "77"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AC9CCAD-820F-4E50-8008-9167226C3824"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheBreakingBad/View/tab4/NewEpisodeNoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "NewEpisodeNoteViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8AC9CCAD-820F-4E50-8008-9167226C3824 - 39428cd6c1df50b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheBreakingBad.NewEpisodeNoteViewController.chooseTvSeriesOutlet.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "TheBreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozturkomerfaruk/Documents/Patika-Vakifbank-iOS-Bootcamp/O%CC%88devler/5.%20Hafta/TheBreakingBad/TheBreakingBad/View/tab4/NewEpisodeNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8AC9CCAD-820F-4E50-8008-9167226C3824 - 86b3bb8777766417"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheBreakingBad.NewEpisodeNoteViewController.chooseTvSeriesOutlet.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "TheBreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozturkomerfaruk/Documents/Patika-Vakifbank-iOS-Bootcamp/O%CC%88devler/5.%20Hafta/TheBreakingBad/TheBreakingBad/View/tab4/NewEpisodeNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "8AC9CCAD-820F-4E50-8008-9167226C3824 - 96fd0722da3e7661"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheBreakingBad.NewEpisodeNoteViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TheBreakingBad.NewEpisodeNoteViewController"
+                  moduleName = "TheBreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozturkomerfaruk/Documents/Patika-Vakifbank-iOS-Bootcamp/O%CC%88devler/5.%20Hafta/TheBreakingBad/TheBreakingBad/View/tab4/NewEpisodeNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "8AC9CCAD-820F-4E50-8008-9167226C3824 - eae9c11dbcb800a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheBreakingBad.NewEpisodeNoteViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TheBreakingBad.NewEpisodeNoteViewController&gt;"
+                  moduleName = "TheBreakingBad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozturkomerfaruk/Documents/Patika-Vakifbank-iOS-Bootcamp/O%CC%88devler/5.%20Hafta/TheBreakingBad/TheBreakingBad/View/tab4/NewEpisodeNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7553D3D1-315C-493B-A35C-E0760D53C69E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TheBreakingBad/View/tab4/NewEpisodeNoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "showPhotoAlert()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
