@@ -8,7 +8,7 @@ Ayrıca listede herhangi bir bölüme tıklama gerçekleştiğinde, o bölüm ha
 
 Proje kapsamında, CoreData üzerinde temel CRUD işlemleri gerçekleşmiştir. Bu kapsamda gerçekleştirilen projenin ekran videosu şu şekildedir:
 
-https://user-images.githubusercontent.com/56068905/205379514-bf97ac4e-f5c5-4f76-9f95-a8996cab891f.mov
+https://user-images.githubusercontent.com/56068905/205486285-8e764300-6808-4da7-9ea3-f2ddd51c7014.mov
 
 ## Listeme Sayfası
 
@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/56068905/205379514-bf97ac4e-f5c5-4f76-
 
 ## Ekleme / Güncelleme Sayfası
 
-<img width="200" src= "https://user-images.githubusercontent.com/56068905/205374679-8ea9cc32-ca03-4ec0-a09a-11b3bbb66d7c.png" />
+<img width="200" src= "https://user-images.githubusercontent.com/56068905/205486239-b1bafec0-9baf-419f-bcda-6c3adbdeab61.png" />
 
 Eğer listeden giriş yapılırsa *Güncelleme Sayfası, eğer kaydet butonu ile oluşturulursa *Kaydet Sayfası olmaktadır.
 
@@ -31,7 +31,7 @@ Eğer listeden giriş yapılırsa *Güncelleme Sayfası, eğer kaydet butonu ile
 
 ## Bölüm Seçme Ekranı
 
-<img width="200" src= "https://user-images.githubusercontent.com/56068905/205376526-1fa1797e-89d8-47f2-87d0-4889d075dc3c.png" />
+<img width="200" src= "https://user-images.githubusercontent.com/56068905/205486253-999b2d7f-6e7c-4e30-a0d9-ea8c4e6c695b.png" />
 
 Bir Pop Up olarak açılmaktadır. Amacı bölümü seçip, not ekleme / güncelleme sayfasında kullanılmasını sağlamaktadır. Bu sebeple delegate pattern olacak şekilde kullanılmıştır.
 
